@@ -17,7 +17,7 @@ var TodoApp = React.createClass({
           text:'Clean the yard'
         },{
           id:3,
-          text:'sex'
+          text:'love'
         },{
           id:4,
           text:'Jia Xin Lai'
